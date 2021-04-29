@@ -1,3 +1,3 @@
 print("Hello, World! I just made output.")
 
-print("fuck, you")
+print("fuck, you!")
