@@ -1,0 +1,29 @@
+Git Commands
+
+git status
+
+Returns status of current branch
+
+git checkout -b <name of new branch>
+
+create and checkout a new branch
+
+git checkout <name of new branch>
+
+checkout an existing branch 
+
+then you can edit/add/remove files
+
+git add <filename> 
+  or 
+git add .
+
+Add files to be commited
+
+git commit -m "my message"
+
+Prepares files to be uploaded/pushed
+
+git push --set-upstream origin <name of branch>
+
+push you branch to git
